@@ -1,0 +1,17 @@
+# 📝 To-Do List Web App
+
+A responsive and interactive To-Do List web application built using **HTML, CSS, and Vanilla JavaScript**.  
+This app allows users to add, complete, and delete tasks in real-time, and also includes a **Dark Mode toggle** for improved accessibility and aesthetics.
+
+---
+
+## 🚀 Features
+
+- ✅ Add new tasks
+- ✅ Mark tasks as complete/incomplete
+- ✅ Delete tasks
+- 🌗 Toggle between Light Mode and Dark Mode
+- 📱 Fully responsive on all devices
+- ⚡ Real-time UI updates without page reload
+- 💡 Built using pure Vanilla JavaScript (no frameworks)
+
